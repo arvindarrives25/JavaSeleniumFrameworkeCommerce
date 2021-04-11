@@ -1,0 +1,152 @@
+2021-04-12 00:58:39,497 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 00:58:39,542 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 00:58:39,542 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 00:58:39,792 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (ebbb2c490289f59642c5c4d153def78c)] -> xpath: //*[@id='Login']/div[1]/form/div/div[4]/button/span] for :200 seconds
+2021-04-12 00:58:40,046 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 00:58:40,088 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (ebbb2c490289f59642c5c4d153def78c)] -> xpath: //*[@id='Login']/div[1]/form/div/div[2]/div/input] for :200 seconds
+2021-04-12 00:58:40,166 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 00:58:40,343 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... guest1
+2021-04-12 00:58:40,365 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (ebbb2c490289f59642c5c4d153def78c)] -> xpath: //*[@id='Login']/div[1]/form/div/div[3]/div/input] for :200 seconds
+2021-04-12 00:58:40,392 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 00:58:40,533 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... guest1
+2021-04-12 00:58:40,545 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (ebbb2c490289f59642c5c4d153def78c)] -> xpath: //*[@id='Login']/div[1]/form/div/div[4]/button/span] for :200 seconds
+2021-04-12 00:58:40,573 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 00:58:40,604 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Clciking on WebElement..... Sign in
+2021-04-12 00:58:40,824 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='bp3-icon-folder-close bp3-fixed bp3-button id-button--inverted bp3-minimal']' for :200 seconds
+2021-04-12 00:58:45,384 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 00:58:45,560 - com.company.ecomjavaproject.helper.VerifyHelper -INFO - element is Displayed..Library
+2021-04-12 00:58:45,566 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 01:18:11,085 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 01:18:11,115 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:18:11,116 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:18:11,146 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Log in']' for :200 seconds
+2021-04-12 01:19:12,677 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 01:19:12,712 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:19:12,713 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:19:12,757 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Log in']' for :5 seconds
+2021-04-12 01:19:17,991 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 01:21:04,862 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 01:21:04,895 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:21:04,896 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:21:04,926 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Log in']' for :5 seconds
+2021-04-12 01:21:10,198 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 01:24:47,256 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 01:24:47,296 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:24:47,296 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:24:47,333 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Log in']' for :5 seconds
+2021-04-12 01:24:52,569 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 01:28:53,956 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 01:28:53,996 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:28:53,997 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:28:54,033 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Log in']' for :5 seconds
+2021-04-12 01:28:59,192 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 01:40:42,168 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 01:40:42,202 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:40:42,202 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:40:42,234 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@value='Log in']' for :5 seconds
+2021-04-12 01:40:47,463 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 01:47:57,298 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 01:47:57,338 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:47:57,339 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:47:57,366 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (287693ea99f17f010404520da8008567)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 01:47:57,429 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:47:57,443 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (287693ea99f17f010404520da8008567)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 01:47:57,482 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:47:57,554 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 01:47:57,572 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (287693ea99f17f010404520da8008567)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 01:47:57,606 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:47:57,711 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin@yourstore.com
+2021-04-12 01:47:57,727 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (287693ea99f17f010404520da8008567)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 01:47:57,758 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:47:57,827 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 01:47:57,838 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (287693ea99f17f010404520da8008567)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 01:47:57,864 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:47:57,923 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin
+2021-04-12 01:47:57,933 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (287693ea99f17f010404520da8008567)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 01:47:57,965 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:48:02,331 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Log in']' for :5 seconds
+2021-04-12 01:48:07,628 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 01:52:17,323 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 01:52:17,359 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:52:17,360 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 01:52:17,380 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (6475aab8d805e3a711896b6c4e1b6e3f)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 01:52:17,437 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:52:17,456 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (6475aab8d805e3a711896b6c4e1b6e3f)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 01:52:17,493 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:52:17,568 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 01:52:17,586 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (6475aab8d805e3a711896b6c4e1b6e3f)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 01:52:17,616 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:52:17,721 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin@yourstore.com
+2021-04-12 01:52:17,737 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (6475aab8d805e3a711896b6c4e1b6e3f)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 01:52:17,766 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:52:17,826 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 01:52:17,839 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (6475aab8d805e3a711896b6c4e1b6e3f)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 01:52:17,868 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:52:17,932 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin
+2021-04-12 01:52:17,943 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (6475aab8d805e3a711896b6c4e1b6e3f)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 01:52:17,972 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 01:52:24,231 - com.company.ecomjavaproject.helper.VerifyHelper -INFO - element is Displayed..Logout
+2021-04-12 01:52:24,239 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 02:12:03,472 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 02:12:03,510 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 02:12:03,510 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 02:12:03,532 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (691eeead4b7db7b09e5e234d52018c06)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 02:12:03,582 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:03,596 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (691eeead4b7db7b09e5e234d52018c06)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 02:12:03,635 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:03,717 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 02:12:03,728 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (691eeead4b7db7b09e5e234d52018c06)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 02:12:03,775 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:03,891 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin@yourstore.com
+2021-04-12 02:12:03,905 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (691eeead4b7db7b09e5e234d52018c06)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 02:12:03,940 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:04,002 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 02:12:04,013 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (691eeead4b7db7b09e5e234d52018c06)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 02:12:04,044 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:04,108 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin
+2021-04-12 02:12:04,121 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (691eeead4b7db7b09e5e234d52018c06)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 02:12:04,154 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:10,857 - com.company.ecomjavaproject.helper.VerifyHelper -INFO - element is Displayed..Logout
+2021-04-12 02:12:10,876 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 02:12:49,862 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 02:12:49,896 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 02:12:49,896 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 02:12:49,917 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (4f3b6ab37ece9902128bafd136ff5803)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 02:12:49,967 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:49,982 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (4f3b6ab37ece9902128bafd136ff5803)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 02:12:50,025 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:50,165 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 02:12:50,174 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (4f3b6ab37ece9902128bafd136ff5803)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 02:12:50,203 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:50,298 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin@yourstore.com
+2021-04-12 02:12:50,316 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (4f3b6ab37ece9902128bafd136ff5803)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 02:12:50,345 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:50,400 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 02:12:50,419 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (4f3b6ab37ece9902128bafd136ff5803)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 02:12:50,446 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:50,507 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin
+2021-04-12 02:12:50,517 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (4f3b6ab37ece9902128bafd136ff5803)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 02:12:50,542 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:12:57,196 - com.company.ecomjavaproject.helper.VerifyHelper -INFO - element is Displayed..Logout
+2021-04-12 02:12:57,212 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
+2021-04-12 02:14:54,452 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestStarted********************
+2021-04-12 02:14:54,483 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 02:14:54,484 - com.company.ecomjavaproject.helper.WaitHelper -INFO - WaitHelper object created..
+2021-04-12 02:14:54,509 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (b8b2d8a1a6be64502331e6cfa269ec23)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 02:14:54,586 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:14:54,613 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (b8b2d8a1a6be64502331e6cfa269ec23)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 02:14:54,673 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:14:54,737 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 02:14:54,754 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (b8b2d8a1a6be64502331e6cfa269ec23)] -> xpath: //*[@id='Email']] for :5 seconds
+2021-04-12 02:14:54,854 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:14:54,978 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin@yourstore.com
+2021-04-12 02:14:54,997 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (b8b2d8a1a6be64502331e6cfa269ec23)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 02:14:55,038 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:14:55,127 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... 
+2021-04-12 02:14:55,140 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (b8b2d8a1a6be64502331e6cfa269ec23)] -> xpath: //*[@id='Password']] for :5 seconds
+2021-04-12 02:14:55,169 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:14:55,233 - com.company.ecomjavaproject.helper.CommonFunc -INFO - Setting String Value as..... admin
+2021-04-12 02:14:55,244 - com.company.ecomjavaproject.helper.WaitHelper -INFO - waiting for :[[ChromeDriver: chrome on WINDOWS (b8b2d8a1a6be64502331e6cfa269ec23)] -> xpath: //*[text()='Log in']] for :5 seconds
+2021-04-12 02:14:55,278 - com.company.ecomjavaproject.helper.WaitHelper -INFO - element is visible now
+2021-04-12 02:15:01,703 - com.company.ecomjavaproject.helper.VerifyHelper -INFO - element is Displayed..Logout
+2021-04-12 02:15:01,723 - com.company.ecomjavaproject.baseclass.BaseClass -INFO - *******************loginTestEnded********************
