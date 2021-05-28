@@ -1,14 +1,14 @@
 # JavaSeleniumFrameworkeCommerce/TestNG - Maven - POM.xml - WebDriver - Runable.bat 
 
-*This is a selenium python framework(TestNG) end to end to automate of an e-Commerce site
+* This is a selenium python framework(TestNG) end to end to automate of an e-Commerce site
 
-*The framework is completed and can be implemnted in any proejct(small or enterprice)
+* The framework is completed and can be implemnted in any proejct(small or enterprice)
 
-*There few test cases only, but those are just an example and can be develop thousands of test cases on top of those
+* There few test cases only, but those are just an example and can be develop thousands of test cases on top of those
 
-*This project can be implemented in CICD process through Jenkin or any tool 
+* This project can be implemented in CICD process through Jenkin or any tool 
 
-*It will create extent report and will generate logs as well
+* It will create extent report and will generate logs as well
 
 ## SetUp Instructions
 1. [Java selenium installation with eclipse](https://www.javatpoint.com/selenium-webdriver-installation)
